@@ -19,7 +19,7 @@ Or
 
     foreman start
     
-##Required environment variables 
+## Required environment variables 
 - `PIVOTAL_TRACKER_PROJECT_ID`: the id of
 - `PIVOTAL_TRACKER_AUTH_TOKEN`: your api token for pivotal tracker
 

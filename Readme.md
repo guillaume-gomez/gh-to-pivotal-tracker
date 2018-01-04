@@ -23,7 +23,7 @@ Or
 - `PIVOTAL_TRACKER_PROJECT_ID`: the id of
 - `PIVOTAL_TRACKER_AUTH_TOKEN`: your api token for pivotal tracker
 
-##Configure github webkhook
+## Configure github webkhook
 
 Assuming this runs at https://somedomain.com, the webhook you need to configure is : 
 
